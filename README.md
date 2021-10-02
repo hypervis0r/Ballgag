@@ -33,3 +33,4 @@ A tool used to clear Windows Event Logs without invoking `wevtutil.exe`
 - [ ] Clearing specific log channels
 - [ ] Save cleared logs to a file
 - [ ] Shut the event log service up for good by killing its threads
+- [ ] impacket script?
